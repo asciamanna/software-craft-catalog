@@ -15,6 +15,7 @@
 * [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product) - Tabassum Farooque Memon
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
+* [Symbiosis - A Provocation about Organizations](https://drive.google.com/file/d/0B8ZX1RoWHuiJRnppcERLNjdSV00/view) - Michael Feathers
 * [Norris Numbers](http://www.teamten.com/lawrence/writings/norris-numbers.html) - Lawrence Kesteloot
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 * [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
@@ -44,3 +45,6 @@
 * [Find the Right Abstraction Level for your Tests](http://m.ustream.tv/recorded/46744750) - Gerard Meszaros
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) - Sandi Metz
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
+
+##Miscellaneous
+* [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
