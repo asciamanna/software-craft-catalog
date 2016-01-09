@@ -45,6 +45,7 @@
 * [Find the Right Abstraction Level for your Tests](http://m.ustream.tv/recorded/46744750) - Gerard Meszaros
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) - Sandi Metz
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
+* [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
 
 ##Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
