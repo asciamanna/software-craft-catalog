@@ -47,8 +47,9 @@
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
 * [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
 
+##Podcasts
+* [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
+
 ##Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 
-##Podcasts
-* [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
