@@ -32,7 +32,8 @@
 * [The Land That Scrum Forgot](https://www.scrumalliance.org/community/articles/2010/december/the-land-that-scrum-forgot) - Robert Martin
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
 * [I Spent 3 days with sandi metz here is what I learned](http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/) - Jack Hoy
-
+* [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
+*
 ##Talks
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
 * [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
