@@ -49,6 +49,7 @@
 
 ##Podcasts
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
+* [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
 
 ##Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
