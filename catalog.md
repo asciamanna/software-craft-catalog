@@ -49,6 +49,7 @@
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
 * [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
 * [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
+* [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) - Michael Feathers
 
 ##Podcasts
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
