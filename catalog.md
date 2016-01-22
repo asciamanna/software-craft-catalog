@@ -51,6 +51,7 @@
 * [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
 * [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) - Michael Feathers
 * [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI) - Corey Haines
+* [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
 
 ##Podcasts
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
