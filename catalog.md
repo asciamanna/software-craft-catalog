@@ -59,4 +59,5 @@
 
 ##Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
+* [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
 
