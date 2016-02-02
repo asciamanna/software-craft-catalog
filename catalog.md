@@ -33,7 +33,7 @@
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
 * [I Spent 3 days with sandi metz here is what I learned](http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/) - Jack Hoy
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
-
+* [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
 
 ##Talks
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
