@@ -1,4 +1,4 @@
-##Blog Posts
+## Blog Posts
 * [Test First](https://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html) - Robert Martin
 * [Does Organization Matter](http://blog.cleancoder.com/uncle-bob/2015/04/15/DoesOrganizationMatter.html) - Robert Martin
 * [Beck's Design Rules](http://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
@@ -35,8 +35,9 @@
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
 * [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
 * [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
+* [Don't Create a Sense of Urgency, Foster a sense of Purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.sjfzc3ha0) - Kimber Lockhart
 
-##Talks
+## Talks
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
 * [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
 * [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
@@ -54,11 +55,11 @@
 * [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI) - Corey Haines
 * [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
 
-##Podcasts
+## Podcasts
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
 * [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
 
-##Miscellaneous
+## Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
 * [Limit Your Abstractions](https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions) - Ayende Rahien 
