@@ -16,6 +16,8 @@
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
 * [Symbiosis - A Provocation about Organizations](https://drive.google.com/file/d/0B8ZX1RoWHuiJRnppcERLNjdSV00/view) - Michael Feathers
+* [Symbiosis - A Provocation about Organizations - UPDATED](http://www.r7krecon.com/#!provocation/gfqa5) - Michael Feathers
+* [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
 * [Norris Numbers](http://www.teamten.com/lawrence/writings/norris-numbers.html) - Lawrence Kesteloot
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 * [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
