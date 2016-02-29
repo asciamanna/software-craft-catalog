@@ -1,31 +1,46 @@
 ## Blog Posts
+### Test-Driven Development and Unit Testing
+
 * [Test First](https://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html) - Robert Martin
-* [Does Organization Matter](http://blog.cleancoder.com/uncle-bob/2015/04/15/DoesOrganizationMatter.html) - Robert Martin
-* [Beck's Design Rules](http://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
-* [Opportunistic Refactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html) - Martin Fowler
-* [Technical Debt: Bad Metaphor or Worst?](http://ronjeffries.com/articles/015-11/tech-debt/) - Ron Jeffries
 * [The Three Rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) - Robert Martin
-* [Design Stamina Hypothesis](http://martinfowler.com/bliki/DesignStaminaHypothesis.html) - Martin Fowler
-* [Humane Development](https://ernie.io/2014/12/17/humane-development/) - Ernie Miller
-* [Technical Debt Quadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) - Martin Fowler
-* [The Start-up Trap](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html) - Robert Martin
-* [Petition the King](http://ronjeffries.com/xprog/articles/petitiontheking/) - Ron Jeffries
 * [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) - Robert Martin
 * [Thorns Around the Gold](http://blog.cleancoder.com/uncle-bob/2014/11/19/GoingForTheGold.html) - Robert Martin
-* [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product) - Tabassum Farooque Memon
+* [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
+* [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
+* [Tests Are an Implementation Detail](https://blog.pivotal.io/pivotal-labs/labs/tests-implementation-detail) - Matthew Parker
+* [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
+
+
+### Refactoring / Technical Debt
+
+* [Opportunistic Refactoring](http://martinfowler.com/bliki/OpportunisticRefactoring.html) - Martin Fowler
+* [Technical Debt: Bad Metaphor or Worst?](http://ronjeffries.com/articles/015-11/tech-debt/) - Ron Jeffries
+* [Technical Debt Quadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) - Martin Fowler
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
+
+### Software Design
+
+* [Does Organization Matter](http://blog.cleancoder.com/uncle-bob/2015/04/15/DoesOrganizationMatter.html) - Robert Martin
+* [Beck's Design Rules](http://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
+* [Design Stamina Hypothesis](http://martinfowler.com/bliki/DesignStaminaHypothesis.html) - Martin Fowler
+* [Norris Numbers](http://www.teamten.com/lawrence/writings/norris-numbers.html) - Lawrence Kesteloot
+* [Yet Another Optimization Article](http://martinfowler.com/ieeeSoftware/yetOptimization.pdf) - Martin Fowler
+* [Feature Devotion](http://martinfowler.com/bliki/FeatureDevotion.html) - Martin Fowler
+* [Limit Your Abstractions](https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions) - Ayende Rahien 
+* [I Spent 3 days with sandi metz here is what I learned](http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/) - Jack Hoy
+* [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
+
+### Agile / eXtreme Programming / Team Organization
+
+* [Humane Development](https://ernie.io/2014/12/17/humane-development/) - Ernie Miller
+* [The Start-up Trap](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html) - Robert Martin
+* [Petition the King](http://ronjeffries.com/xprog/articles/petitiontheking/) - Ron Jeffries
+* [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product) - Tabassum Farooque Memon
 * [Symbiosis - A Provocation about Organizations](https://drive.google.com/file/d/0B8ZX1RoWHuiJRnppcERLNjdSV00/view) - Michael Feathers
 * [Symbiosis - A Provocation about Organizations - UPDATED](http://www.r7krecon.com/#!provocation/gfqa5) - Michael Feathers
 * [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
-* [Norris Numbers](http://www.teamten.com/lawrence/writings/norris-numbers.html) - Lawrence Kesteloot
-* [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
-* [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
-* [Yet Another Optimization Article](http://martinfowler.com/ieeeSoftware/yetOptimization.pdf) - Martin Fowler
-* [Feature Devotion](http://martinfowler.com/bliki/FeatureDevotion.html) - Martin Fowler
 * [How to Keep Your Best Developers](http://www.daedtech.com/how-to-keep-your-best-programmers) - Erik Dietrich
-* [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
-* [Tests Are an Implementation Detail](https://blog.pivotal.io/pivotal-labs/labs/tests-implementation-detail) - Matthew Parker
 * [Introducing Pair Programming](http://www.infoq.com/articles/introducing-pair-programming) - Melinda Stelzer Jacobson
 * [But Are They Working Hard?](http://www.estherderby.com/2012/02/but-are-they-working-hard.html) - Esther Derby
 * [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
@@ -33,17 +48,19 @@
 * [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) - Chad Fowler
 * [The Land That Scrum Forgot](https://www.scrumalliance.org/community/articles/2010/december/the-land-that-scrum-forgot) - Robert Martin
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
-* [I Spent 3 days with sandi metz here is what I learned](http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/) - Jack Hoy
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
-* [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
-* [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
+* [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
 * [Don't Create a Sense of Urgency, Foster a sense of Purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.sjfzc3ha0) - Kimber Lockhart
+
+### Misc. Blog Posts
+
+* [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 
 ## Talks
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
 * [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
 * [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
-* [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
+
 * [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
 * [Building a Culture of Quality](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - Bryan Helmkamp
 * [Kanban, Lean & Large-Scale Agile](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - James Shore
@@ -60,9 +77,10 @@
 ## Podcasts
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
 * [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
+* [.NET Rocks - Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
 
 ## Miscellaneous
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
-* [Limit Your Abstractions](https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions) - Ayende Rahien 
+
 
