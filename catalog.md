@@ -30,6 +30,7 @@
 * [Limit Your Abstractions](https://ayende.com/blog/154209/limit-your-abstractions-refactoring-toward-reduced-abstractions) - Ayende Rahien 
 * [I Spent 3 days with sandi metz here is what I learned](http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/) - Jack Hoy
 * [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
+* [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion) - Bob Martin
 
 ### Agile / eXtreme Programming / Team Organization
 
