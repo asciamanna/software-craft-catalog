@@ -52,6 +52,10 @@
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
 * [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
 * [Don't Create a Sense of Urgency, Foster a sense of Purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.sjfzc3ha0) - Kimber Lockhart
+* [Pair Programming Benefits](https://pragprog.com/magazines/2011-07/pair-programming-benefits) - Jeff Langr & Tim Ottinger
+* [Two Forgotten Agile Values: Discipline and Skill](http://www.exampler.com/discipline-and-skill.html) - Brian Marick
+* [Avoiding Iteration Zero](http://blog.gdinwiddie.com/2011/05/25/avoiding-iteration-zero/) - George Dinwiddie
+* [Some Thoughts on Collective Code Ownership and Knowledge](http://jeremydmiller.com/2014/07/13/some-thoughts-on-collective-ownership-and-knowledge/) - Jeremy D. Miller
 
 ### Misc. Blog Posts
 
@@ -61,7 +65,6 @@
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
 * [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
 * [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
-
 * [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
 * [Building a Culture of Quality](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - Bryan Helmkamp
 * [Kanban, Lean & Large-Scale Agile](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - James Shore
