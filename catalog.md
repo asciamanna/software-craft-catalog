@@ -59,7 +59,7 @@
 * [Some Thoughts on Collective Code Ownership and Knowledge](http://jeremydmiller.com/2014/07/13/some-thoughts-on-collective-ownership-and-knowledge/) - Jeremy D. Miller
 
 ### Misc. Blog Posts
-
+* [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 
 ## Talks
