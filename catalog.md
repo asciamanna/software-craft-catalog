@@ -57,6 +57,7 @@
 * [Two Forgotten Agile Values: Discipline and Skill](http://www.exampler.com/discipline-and-skill.html) - Brian Marick
 * [Avoiding Iteration Zero](http://blog.gdinwiddie.com/2011/05/25/avoiding-iteration-zero/) - George Dinwiddie
 * [Some Thoughts on Collective Code Ownership and Knowledge](http://jeremydmiller.com/2014/07/13/some-thoughts-on-collective-ownership-and-knowledge/) - Jeremy D. Miller
+* [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 
 ### Misc. Blog Posts
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
