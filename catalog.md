@@ -66,20 +66,20 @@
 
 ## Talks
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
-* [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
-* [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
-* [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
 * [Building a Culture of Quality](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - Bryan Helmkamp
-* [Kanban, Lean & Large-Scale Agile](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - James Shore
-* [Demanding Software Professionalism](https://vimeo.com/56708193) - Robert Martin
-* [Find the Right Abstraction Level for your Tests](http://m.ustream.tv/recorded/46744750) - Gerard Meszaros
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) - Sandi Metz
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
-* [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
+* [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
+* [Demanding Software Professionalism](https://vimeo.com/56708193) - Robert Martin
 * [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
+* [Find the Right Abstraction Level for your Tests](http://m.ustream.tv/recorded/46744750) - Gerard Meszaros
+* [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
+* [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
+* [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
+* [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
+* [Kanban, Lean & Large-Scale Agile](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - James Shore
 * [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) - Michael Feathers
 * [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI) - Corey Haines
-* [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
 * [Therapeutic Refactoring](https://youtu.be/KA9i5IGS-oU) - Katrina Owen
 
 ## Podcasts
