@@ -53,7 +53,6 @@
 * [The Land That Scrum Forgot](https://www.scrumalliance.org/community/articles/2010/december/the-land-that-scrum-forgot) - Robert Martin
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
-* [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
 * [Don't Create a Sense of Urgency, Foster a sense of Purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.sjfzc3ha0) - Kimber Lockhart
 * [Pair Programming Benefits](https://pragprog.com/magazines/2011-07/pair-programming-benefits) - Jeff Langr & Tim Ottinger
 * [Two Forgotten Agile Values: Discipline and Skill](http://www.exampler.com/discipline-and-skill.html) - Brian Marick
@@ -77,6 +76,7 @@
 * [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
 * [Find the Right Abstraction Level for your Tests](http://m.ustream.tv/recorded/46744750) - Gerard Meszaros
 * [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
+* [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
 * [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
 * [Finding Service Boundaries](https://vimeo.com/113515335) - Udi Dahan
 * [Coding Culture](http://m.ustream.tv/recorded/61443548?rmalang=en_US) - Sven Peters (haven't watched yet)
