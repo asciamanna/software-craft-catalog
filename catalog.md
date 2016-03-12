@@ -1,4 +1,5 @@
 ## Blog Posts
+<a name="#blog-posts"></a>
 ### Test-Driven Development and Unit Testing
 
 * [Test First](https://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html) - Robert Martin
@@ -66,6 +67,7 @@
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 
 ## Talks
+<a name="talks"></a>
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
 * [Building a Culture of Quality](https://www.youtube.com/watch?v=Jsi1YTkXwxA) - Bryan Helmkamp
 * [Rules](https://www.youtube.com/watch?v=npOGOmkxuio) - Sandi Metz
@@ -84,11 +86,13 @@
 * [Therapeutic Refactoring](https://youtu.be/KA9i5IGS-oU) - Katrina Owen
 
 ## Podcasts
+<a name="podcasts"></a>
 * [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
 * [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
 * [.NET Rocks - Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
 
 ## Miscellaneous
+<a name="misc"></a>
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
 
