@@ -22,6 +22,7 @@
 ### Software Design
 
 * [Does Organization Matter](http://blog.cleancoder.com/uncle-bob/2015/04/15/DoesOrganizationMatter.html) - Robert Martin
+* [YAGNI](http://martinfowler.com/bliki/Yagni.html) - Martin Fowler
 * [Beck's Design Rules](http://martinfowler.com/bliki/BeckDesignRules.html) - Martin Fowler
 * [Design Stamina Hypothesis](http://martinfowler.com/bliki/DesignStaminaHypothesis.html) - Martin Fowler
 * [Norris Numbers](http://www.teamten.com/lawrence/writings/norris-numbers.html) - Lawrence Kesteloot
