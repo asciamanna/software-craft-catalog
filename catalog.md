@@ -61,6 +61,10 @@
 * [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 
+## Interaction Design 
+
+* [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
+
 ### Misc. Blog Posts
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
