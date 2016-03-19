@@ -61,7 +61,7 @@
 * [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 
-## Interaction Design 
+### Interaction Design 
 
 * [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
 
