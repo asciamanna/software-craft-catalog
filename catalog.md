@@ -10,7 +10,8 @@
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
 * [Tests Are an Implementation Detail](https://blog.pivotal.io/pivotal-labs/labs/tests-implementation-detail) - Matthew Parker
 * [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
-
+* [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html) - Mike Bland 
+  * How Google adopted a Unit Testing Culture
 
 ### Refactoring / Technical Debt
 
