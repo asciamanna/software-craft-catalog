@@ -62,6 +62,7 @@
 * [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
+
 ### Interaction Design 
 
 * [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
