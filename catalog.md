@@ -62,6 +62,7 @@
 * [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
+* [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries
 
 ### Interaction Design 
 
@@ -90,6 +91,8 @@
 * [The Deep Synergy Between Testability and Good Design](https://www.youtube.com/watch?v=4cVZvoFGJTU) - Michael Feathers
 * [Design Patterns And The Proper Cultivation Thereof](https://www.youtube.com/watch?v=vqN3TQgsXzI) - Corey Haines
 * [Therapeutic Refactoring](https://youtu.be/KA9i5IGS-oU) - Katrina Owen
+* [Scaling Engineering Culture at Twitter](http://www.infoq.com/presentations/twitter-scalability-culture) - Raffi Krikorian 
+* [Agile Essence and Fluency](https://www.youtube.com/watch?v=URlnxbaHhTs&feature=youtu.be) - Martin Fowler
 
 ## Podcasts
 <a name="podcasts"></a>
