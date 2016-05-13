@@ -93,6 +93,7 @@
 * [Therapeutic Refactoring](https://youtu.be/KA9i5IGS-oU) - Katrina Owen
 * [Scaling Engineering Culture at Twitter](http://www.infoq.com/presentations/twitter-scalability-culture) - Raffi Krikorian 
 * [Agile Essence and Fluency](https://www.youtube.com/watch?v=URlnxbaHhTs&feature=youtu.be) - Martin Fowler
+* [The Nature of Software Development](https://vimeo.com/128295653) - Ron Jeffries & Chet Hendrickson
 
 ## Podcasts
 <a name="podcasts"></a>
