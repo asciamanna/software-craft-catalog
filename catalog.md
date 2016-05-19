@@ -20,6 +20,7 @@
 * [Technical Debt Quadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) - Martin Fowler
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
+* [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
 
 ### Software Design
 * [The Single Responsibility Principle](https://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - Robert Martin
@@ -95,6 +96,7 @@
 * [Agile Essence and Fluency](https://www.youtube.com/watch?v=URlnxbaHhTs&feature=youtu.be) - Martin Fowler
 * [The Nature of Software Development](https://vimeo.com/128295653) - Ron Jeffries & Chet Hendrickson
 * [Why Scaling Agile Doesn't Work](https://youtu.be/2zYxWEZ0gYg) - Jez Humble
+* [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) - Sandi Metz
 
 ## Podcasts
 <a name="podcasts"></a>
