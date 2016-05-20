@@ -65,6 +65,7 @@
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
 * [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries
 * [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman 
+* [Who is Playing Agile Schedule Games](http://www.jrothman.com/articles/2012/05/whos-playing-agile-schedule-games/) - Johanna Rothman
 
 ### Interaction Design 
 
