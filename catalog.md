@@ -67,6 +67,7 @@
 * [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman 
 * [Who is Playing Agile Schedule Games](http://www.jrothman.com/articles/2012/05/whos-playing-agile-schedule-games/) - Johanna Rothman
 * [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert  
+* [Three Reasons Why Organizations Adopting Agile Say No to XP](https://dzone.com/articles/three-reasons-why-organizations-adopting-agile-say) - Charlie Rudd 
 
 ### Interaction Design 
 
