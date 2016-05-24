@@ -68,6 +68,7 @@
 * [Who is Playing Agile Schedule Games](http://www.jrothman.com/articles/2012/05/whos-playing-agile-schedule-games/) - Johanna Rothman
 * [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert  
 * [Three Reasons Why Organizations Adopting Agile Say No to XP](https://dzone.com/articles/three-reasons-why-organizations-adopting-agile-say) - Charlie Rudd 
+* [Do You Want Crappy Agile?](http://ronjeffries.com/articles/016-03/you-want/) - Ron Jeffries
 
 ### Interaction Design 
 
