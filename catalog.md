@@ -37,6 +37,7 @@
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion) - Bob Martin
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
 
+
 ### Agile / eXtreme Programming / Team Organization
 
 * [Humane Development](https://ernie.io/2014/12/17/humane-development/) - Ernie Miller
@@ -113,5 +114,6 @@
 <a name="misc"></a>
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
+* [Design Patterns](https://sourcemaking.com/design_patterns) 
 
 
