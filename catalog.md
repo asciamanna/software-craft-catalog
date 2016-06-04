@@ -63,6 +63,7 @@
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
 * [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries
+* [Activity Oriented](http://martinfowler.com/bliki/ActivityOriented.html) - Sriram Narayan
 
 ### Interaction Design 
 
