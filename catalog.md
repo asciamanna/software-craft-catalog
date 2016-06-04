@@ -20,6 +20,7 @@
 * [Technical Debt Quadrant](http://martinfowler.com/bliki/TechnicalDebtQuadrant.html) - Martin Fowler
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
+* [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
 
 ### Software Design
 * [The Single Responsibility Principle](https://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - Robert Martin
@@ -35,6 +36,7 @@
 * [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion) - Bob Martin
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
+
 
 ### Agile / eXtreme Programming / Team Organization
 
@@ -63,6 +65,11 @@
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
 * [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries
+* [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman 
+* [Who is Playing Agile Schedule Games](http://www.jrothman.com/articles/2012/05/whos-playing-agile-schedule-games/) - Johanna Rothman
+* [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert  
+* [Three Reasons Why Organizations Adopting Agile Say No to XP](https://dzone.com/articles/three-reasons-why-organizations-adopting-agile-say) - Charlie Rudd 
+* [Do You Want Crappy Agile?](http://ronjeffries.com/articles/016-03/you-want/) - Ron Jeffries
 * [Activity Oriented](http://martinfowler.com/bliki/ActivityOriented.html) - Sriram Narayan
 
 ### Interaction Design 
@@ -95,6 +102,8 @@
 * [Scaling Engineering Culture at Twitter](http://www.infoq.com/presentations/twitter-scalability-culture) - Raffi Krikorian 
 * [Agile Essence and Fluency](https://www.youtube.com/watch?v=URlnxbaHhTs&feature=youtu.be) - Martin Fowler
 * [The Nature of Software Development](https://vimeo.com/128295653) - Ron Jeffries & Chet Hendrickson
+* [Why Scaling Agile Doesn't Work](https://youtu.be/2zYxWEZ0gYg) - Jez Humble
+* [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) - Sandi Metz
 
 ## Podcasts
 <a name="podcasts"></a>
@@ -106,5 +115,6 @@
 <a name="misc"></a>
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
+* [Design Patterns](https://sourcemaking.com/design_patterns) 
 
 
