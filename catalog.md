@@ -52,7 +52,7 @@
 * [But Are They Working Hard?](http://www.estherderby.com/2012/02/but-are-they-working-hard.html) - Esther Derby
 * [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
 * [The Agile Blindside](http://www.estherderby.com/2011/05/the-agile-blindside.html) - Esther Derby
-* [Killing the Crunch Mode Antipattern](http://chadfowler.com/blog/2014/01/22/the-crunch-mode-antipattern/) - Chad Fowler
+* [Killing the Crunch Mode Antipattern](http://chadfowler.com/2014/01/22/the-crunch-mode-antipattern.html) - Chad Fowler
 * [The Land That Scrum Forgot](https://www.scrumalliance.org/community/articles/2010/december/the-land-that-scrum-forgot) - Robert Martin
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
