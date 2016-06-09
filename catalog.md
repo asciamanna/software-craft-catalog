@@ -23,6 +23,7 @@
 * [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
 
 ### Software Design
+
 * [The Single Responsibility Principle](https://blog.8thlight.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html) - Robert Martin
 * [Does Organization Matter](http://blog.cleancoder.com/uncle-bob/2015/04/15/DoesOrganizationMatter.html) - Robert Martin
 * [YAGNI](http://martinfowler.com/bliki/Yagni.html) - Martin Fowler
@@ -71,12 +72,15 @@
 * [Three Reasons Why Organizations Adopting Agile Say No to XP](https://dzone.com/articles/three-reasons-why-organizations-adopting-agile-say) - Charlie Rudd 
 * [Do You Want Crappy Agile?](http://ronjeffries.com/articles/016-03/you-want/) - Ron Jeffries
 * [Activity Oriented](http://martinfowler.com/bliki/ActivityOriented.html) - Sriram Narayan
+* [Outcome Oriented](http://martinfowler.com/bliki/OutcomeOriented.html) - Sriram Narayan
+* [Business Capability Centric](http://martinfowler.com/bliki/BusinessCapabilityCentric.html) - Sriram Narayan
 
 ### Interaction Design 
 
 * [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
 
 ### Misc. Blog Posts
+* [Mastering Programming](https://www.prod.facebook.com/notes/kent-beck/mastering-programming/1184427814923414) - Kent Beck
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 
