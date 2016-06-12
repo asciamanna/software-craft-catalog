@@ -36,7 +36,7 @@
 * [OO In One Sentence](https://media.pragprog.com/articles/may_04_oo1.pdf) - Dave Thomas & Andy Hunt
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion) - Bob Martin
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
-
+* [Beware the Bloated Constructor](http://www.daedtech.com/beware-the-bloated-constructor/) - Erik Deitrich
 
 ### Agile / eXtreme Programming / Team Organization
 
