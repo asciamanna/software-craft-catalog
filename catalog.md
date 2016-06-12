@@ -81,6 +81,7 @@
 
 ### Misc. Blog Posts
 * [Mastering Programming](https://www.prod.facebook.com/notes/kent-beck/mastering-programming/1184427814923414) - Kent Beck
+* [Why I Write Horrible Code (And So Can You)](http://jbazuzicode.blogspot.com/2015/01/why-i-write-horrible-code-and-so-can-you.html) - Jay Bazuzi
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 
