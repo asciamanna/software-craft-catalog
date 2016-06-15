@@ -39,8 +39,8 @@
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
 * [Beware the Bloated Constructor](http://www.daedtech.com/beware-the-bloated-constructor/) - Erik Deitrich
 
-### Agile / eXtreme Programming / Team Organization
 <a name="#agile-posts"></a>
+### Agile / eXtreme Programming / Team Organization
 
 * [Humane Development](https://ernie.io/2014/12/17/humane-development/) - Ernie Miller
 * [The Start-up Trap](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html) - Robert Martin
