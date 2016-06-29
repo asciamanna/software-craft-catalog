@@ -111,6 +111,7 @@
 * [The Nature of Software Development](https://vimeo.com/128295653) - Ron Jeffries & Chet Hendrickson
 * [Why Scaling Agile Doesn't Work](https://youtu.be/2zYxWEZ0gYg) - Jez Humble
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) - Sandi Metz
+* [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) - Sandi Metz
 
 ## Podcasts
 <a name="podcasts"></a>
