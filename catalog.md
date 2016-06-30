@@ -76,6 +76,7 @@
 * [Activity Oriented](http://martinfowler.com/bliki/ActivityOriented.html) - Sriram Narayan
 * [Outcome Oriented](http://martinfowler.com/bliki/OutcomeOriented.html) - Sriram Narayan
 * [Business Capability Centric](http://martinfowler.com/bliki/BusinessCapabilityCentric.html) - Sriram Narayan
+* [Kanban isn't Agile. What about Scrum?](http://ronjeffries.com/articles/015-12/agile-or-not/) - Ron Jeffries
 
 ### Interaction Design 
 
