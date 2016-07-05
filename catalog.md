@@ -78,6 +78,7 @@
 * [Business Capability Centric](http://martinfowler.com/bliki/BusinessCapabilityCentric.html) - Sriram Narayan
 * [Kanban isn't Agile. What about Scrum?](http://ronjeffries.com/articles/015-12/agile-or-not/) - Ron Jeffries
 * [How to Train your Agile](https://dannorth.net/2016/07/04/how-to-train-your-agile/) - Dan North
+* [The God Ceremony](http://tommeloche.com/the-god-ceremony/) - Tom Meloche
 
 ### Interaction Design 
 
