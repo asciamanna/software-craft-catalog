@@ -21,6 +21,7 @@
 * [Healthy Codebase and Preparatory Refactoring](http://brewhouse.io/blog/2014/11/10/healthy-codebase-and-preparatory-refactoring.html) - Phillippe Creux
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
 * [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
+* [Refactoring is a Development Technique, Not a Project](https://blog.ndepend.com/refactoring-is-a-development-technique-not-a-project/) - Erik Dietrich
 
 ### Software Design
 
