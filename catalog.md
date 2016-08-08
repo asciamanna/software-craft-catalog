@@ -22,6 +22,7 @@
 * [Detecting Shoved Code](https://michaelfeathers.silvrback.com/detecting-shoved-code) - Michael Feathers
 * [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
 * [Refactoring is a Development Technique, Not a Project](https://blog.ndepend.com/refactoring-is-a-development-technique-not-a-project/) - Erik Dietrich
+* [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing) - Michael Feathers
 
 ### Software Design
 
@@ -91,6 +92,7 @@
 * [Why I Write Horrible Code (And So Can You)](http://jbazuzicode.blogspot.com/2015/01/why-i-write-horrible-code-and-so-can-you.html) - Jay Bazuzi
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
+* [NDepend API](https://blog.ndepend.com/code-analysis-statistics-ndepend-api/) - Erik Dietrich
 
 ## Talks
 <a name="talks"></a>
