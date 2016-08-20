@@ -82,6 +82,7 @@
 * [How to Train your Agile](https://dannorth.net/2016/07/04/how-to-train-your-agile/) - Dan North
 * [The God Ceremony](http://tommeloche.com/the-god-ceremony/) - Tom Meloche
 * [XP at 20](http://ronjeffries.com/articles/016-0607/xp-at-20/) - Ron Jeffries
+* [Modern Agile](https://www.industriallogic.com/blog/modern-agile/) - Joshua Kerievsky
 
 ### Interaction Design 
 
