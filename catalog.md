@@ -95,6 +95,7 @@
 * [How to Write a Git Commit](http://chris.beams.io/posts/git-commit/) - Chris Beams
 * [Knightmare: A Devops Cautionary Tale](http://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/) - Doug Seven
 * [NDepend API](https://blog.ndepend.com/code-analysis-statistics-ndepend-api/) - Erik Dietrich
+* [The Lurn](http://blog.cleancoder.com/uncle-bob/2016/09/01/TheLurn.html) - Robert Martin
 
 ## Talks
 <a name="talks"></a>
