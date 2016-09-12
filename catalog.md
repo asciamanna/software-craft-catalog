@@ -84,6 +84,7 @@
 * [XP at 20](http://ronjeffries.com/articles/016-0607/xp-at-20/) - Ron Jeffries
 * [Modern Agile](https://www.industriallogic.com/blog/modern-agile/) - Joshua Kerievsky
 * [Estimates in 3X](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243) - Kent Beck
+* [Dark Scrum](http://ronjeffries.com/articles/016-09ff/defense/) - Ron Jeffries
 
 ### Interaction Design 
 
