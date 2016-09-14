@@ -85,6 +85,7 @@
 * [Modern Agile](https://www.industriallogic.com/blog/modern-agile/) - Joshua Kerievsky
 * [Estimates in 3X](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243) - Kent Beck
 * [Dark Scrum](http://ronjeffries.com/articles/016-09ff/defense/) - Ron Jeffries
+* [Victim of Success: Dark Scrum](http://ronjeffries.com/articles/016-09ff/victim/) - Ron Jeffries
 
 ### Interaction Design 
 
