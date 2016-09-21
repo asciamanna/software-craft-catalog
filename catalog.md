@@ -87,6 +87,10 @@
 * [Dark Scrum](http://ronjeffries.com/articles/016-09ff/defense/) - Ron Jeffries
 * [Victim of Success: Dark Scrum](http://ronjeffries.com/articles/016-09ff/victim/) - Ron Jeffries
 
+### Code Katas / Études
+
+* [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
+* [Code Kata](http://codekata.pragprog.com/) - Dave Thomas
 ### Interaction Design 
 
 * [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
