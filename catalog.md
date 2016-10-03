@@ -12,6 +12,7 @@
 * [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
 * [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html) - Mike Bland 
   * How Google adopted a Unit Testing Culture
+* [Habits that Help Code Quality](http://www.daedtech.com/habits-that-help-code-quality/) - Erik Dietrich
 
 ### Refactoring / Technical Debt
 
