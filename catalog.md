@@ -50,6 +50,7 @@
 * [The Start-up Trap](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html) - Robert Martin
 * [Petition the King](http://ronjeffries.com/xprog/articles/petitiontheking/) - Ron Jeffries
 * [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product) - Tabassum Farooque Memon
+* [No Projects - Beyond Projects](https://www.infoq.com/articles/kelly-beyond-projects) - Allan Kelly
 * [Symbiosis - A Provocation about Organizations](https://drive.google.com/file/d/0B8ZX1RoWHuiJRnppcERLNjdSV00/view) - Michael Feathers
 * [Symbiosis - A Provocation about Organizations - UPDATED](http://www.r7krecon.com/#!provocation/gfqa5) - Michael Feathers
 * [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
