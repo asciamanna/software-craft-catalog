@@ -13,6 +13,7 @@
 * [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html) - Mike Bland 
   * How Google adopted a Unit Testing Culture
 * [Habits that Help Code Quality](http://www.daedtech.com/habits-that-help-code-quality/) - Erik Dietrich
+* [The Transformation Priority Premise](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) - Robert Martin
 
 ### Refactoring / Technical Debt
 
