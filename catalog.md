@@ -91,6 +91,7 @@
 * [Victim of Success: Dark Scrum](http://ronjeffries.com/articles/016-09ff/victim/) - Ron Jeffries
 * [Time Was...](http://ronjeffries.com/articles/016-09ff/time-was/) - Ron Jeffries
 * [How Long Should Your Sprint Be?](https://medium.com/@Steve_Hayes/how-long-should-your-sprint-be-402eba3cf9ae#.3cbg4zhib) - Steve Hayes
+* [Spotify Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - Henrik Kniberg
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
