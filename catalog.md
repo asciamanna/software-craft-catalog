@@ -92,6 +92,7 @@
 * [Time Was...](http://ronjeffries.com/articles/016-09ff/time-was/) - Ron Jeffries
 * [How Long Should Your Sprint Be?](https://medium.com/@Steve_Hayes/how-long-should-your-sprint-be-402eba3cf9ae#.3cbg4zhib) - Steve Hayes
 * [Spotify Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - Henrik Kniberg
+* [Story Slicing: How Small is Enough](https://agilepainrelief.com/notesfromatooluser/2010/09/story-slicing-how-small-is-enough.html) - Mark Levison
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
