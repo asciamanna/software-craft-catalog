@@ -47,6 +47,7 @@
 ### Agile / eXtreme Programming / Team Organization
 <a name="#agile-posts"></a>
 
+* [12 Signs You are Working in a Feature Factory](https://hackernoon.com/12-signs-youre-working-in-a-feature-factory-44a5b938d6a2#.grgum09ux) - John Cutler
 * [Humane Development](https://ernie.io/2014/12/17/humane-development/) - Ernie Miller
 * [The Start-up Trap](http://blog.8thlight.com/uncle-bob/2013/03/05/TheStartUpTrap.html) - Robert Martin
 * [Petition the King](http://ronjeffries.com/xprog/articles/petitiontheking/) - Ron Jeffries
