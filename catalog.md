@@ -95,6 +95,7 @@
 * [How Long Should Your Sprint Be?](https://medium.com/@Steve_Hayes/how-long-should-your-sprint-be-402eba3cf9ae#.3cbg4zhib) - Steve Hayes
 * [Spotify Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - Henrik Kniberg
 * [Story Slicing: How Small is Enough](https://agilepainrelief.com/notesfromatooluser/2010/09/story-slicing-how-small-is-enough.html) - Mark Levison
+* [Forgotten Questions of Change](http://www.estherderby.com/2016/09/forgotten-questions-of-change.html) - Esther Derby
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
