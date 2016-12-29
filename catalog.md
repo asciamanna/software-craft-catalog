@@ -25,6 +25,7 @@
 * [We'll Change Right After... No. No, You Won't](http://frazzleddad.blogspot.com/2016/05/well-change-right-after-no-no-you-wont.html) - Jim Holmes
 * [Refactoring is a Development Technique, Not a Project](https://blog.ndepend.com/refactoring-is-a-development-technique-not-a-project/) - Erik Dietrich
 * [Characterization Testing](https://michaelfeathers.silvrback.com/characterization-testing) - Michael Feathers
+* [How Terrible Code Gets Written by Sane People](https://ponyfoo.com/articles/terrible-code-sane-people) - Christian M. Mackeprang
 
 ### Software Design
 
@@ -96,6 +97,7 @@
 * [Spotify Squad Health Check](https://labs.spotify.com/2014/09/16/squad-health-check-model/) - Henrik Kniberg
 * [Story Slicing: How Small is Enough](https://agilepainrelief.com/notesfromatooluser/2010/09/story-slicing-how-small-is-enough.html) - Mark Levison
 * [Forgotten Questions of Change](http://www.estherderby.com/2016/09/forgotten-questions-of-change.html) - Esther Derby
+* [Organizing Your Agile Teams, Think Autonomy, Mastery, Purpose](https://techbeacon.com/how-best-organize-agile-teams-build-around-autonomy-mastery-purpose) - Johanna Rothman
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
