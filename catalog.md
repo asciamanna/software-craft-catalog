@@ -115,6 +115,10 @@
 * [NDepend API](https://blog.ndepend.com/code-analysis-statistics-ndepend-api/) - Erik Dietrich
 * [The Lurn](http://blog.cleancoder.com/uncle-bob/2016/09/01/TheLurn.html) - Robert Martin
 
+### Problems with Performance Appraisals / Annual Reviews
+
+* [Performance Without Appraisal: Addressing the Most Common Concerns](http://www.estherderby.com/2010/07/performance-without-appraisal-addressing-the-most-common-concerns.html) - Esther Derby
+
 ## Talks
 <a name="talks"></a>
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
