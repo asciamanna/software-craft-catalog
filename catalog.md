@@ -145,6 +145,7 @@
 * [Why Scaling Agile Doesn't Work](https://youtu.be/2zYxWEZ0gYg) - Jez Humble
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) - Sandi Metz
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) - Sandi Metz
+* [How Your Organization is Killing Your Software](https://www.youtube.com/watch?v=9Zqt7UrAXns) - Raffi Krikorian
 
 ## Podcasts
 <a name="podcasts"></a>
