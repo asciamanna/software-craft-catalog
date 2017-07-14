@@ -100,6 +100,7 @@
 * [Organizing Your Agile Teams, Think Autonomy, Mastery, Purpose](https://techbeacon.com/how-best-organize-agile-teams-build-around-autonomy-mastery-purpose) - Johanna Rothman
 * [What Story Estimates are Not](http://ronjeffries.com/articles/015-jul/what-estimates-are-not/) - Ron Jeffries
 * [Vertical Slices and Scale](http://agileforall.com/vertical-slices-and-scale/) - Richard Lawrence
+* [Why not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
