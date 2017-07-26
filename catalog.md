@@ -150,6 +150,7 @@
 * [How Your Organization is Killing Your Software](https://www.youtube.com/watch?v=9Zqt7UrAXns) - Raffi Krikorian
 * [Patterns of Effective Teams](https://www.youtube.com/watch?v=lvs7VEsQzKY) - Dan North
 * [If We're Agile Why Do We Need Managers?](http://www.synerzip.com/webinar/if-were-agile-why-do-we-need-managers-march-17-2016/) - Ron Lichty
+* [Moving Past the Scaling Myth](https://www.youtube.com/watch?v=MgbmGQVa4wc&feature=youtu.be) - Michael Feathers
 
 ## Podcasts
 <a name="podcasts"></a>
