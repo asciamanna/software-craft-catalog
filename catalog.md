@@ -103,6 +103,7 @@
 * [Why not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
 * [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
 * [What Agile is Not](https://pragprog.com/magazines/2010-10/what-agile-is-not) - Jeff Langr, Tim Ottinger
+* ["Business Agile": Built Upon Sand](http://ronjeffries.com/articles/017-08ff/sand/) - Ron Jeffries 
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
