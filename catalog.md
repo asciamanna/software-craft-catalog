@@ -156,6 +156,7 @@
 * [If We're Agile Why Do We Need Managers?](http://www.synerzip.com/webinar/if-were-agile-why-do-we-need-managers-march-17-2016/) - Ron Lichty
 * [Moving Past the Scaling Myth](https://www.youtube.com/watch?v=MgbmGQVa4wc&feature=youtu.be) - Michael Feathers
 * [Please don’t mock me (and other test double advice)](https://vimeo.com/257056050)
+* [End-to-End Kanban for the Whole Organization](https://youtu.be/jD_jgP_K68A?t=309)
 
 ## Podcasts
 <a name="podcasts"></a>
