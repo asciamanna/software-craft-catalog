@@ -8,7 +8,7 @@
 * [Thorns Around the Gold](http://blog.cleancoder.com/uncle-bob/2014/11/19/GoingForTheGold.html) - Robert Martin
 * [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
-* [Tests Are an Implementation Detail](https://blog.pivotal.io/pivotal-labs/labs/tests-implementation-detail) - Matthew Parker
+* [Tests Are an Implementation Detail](https://content.pivotal.io/blog/tests-are-an-implementation-detail) - Matthew Parker
 * [The Failures of Intro to TDD](http://blog.testdouble.com/posts/2014-01-25-the-failures-of-intro-to-tdd.html) - Justin Searls
 * [Goto Fail, Heartbleed, and Unit Testing Culture](http://martinfowler.com/articles/testing-culture.html) - Mike Bland 
   * How Google adopted a Unit Testing Culture
