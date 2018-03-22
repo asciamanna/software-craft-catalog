@@ -158,6 +158,7 @@
 * [Please don’t mock me (and other test double advice)](https://vimeo.com/257056050) - Justin Searls
 * [End-to-End Kanban for the Whole Organization](https://youtu.be/jD_jgP_K68A?t=309) - Colleen Johnson
 * [Patterns failed, why? Should we care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) - Brian Marick
+* [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
 
 ## Podcasts
 <a name="podcasts"></a>
