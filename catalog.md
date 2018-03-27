@@ -159,6 +159,7 @@
 * [End-to-End Kanban for the Whole Organization](https://youtu.be/jD_jgP_K68A?t=309) - Colleen Johnson
 * [Patterns failed, why? Should we care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) - Brian Marick
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
+* [Re-thinking IT](https://vimeo.com/19122939) - John Seddon
 
 ## Podcasts
 <a name="podcasts"></a>
