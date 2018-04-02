@@ -161,6 +161,8 @@
 * [Patterns failed, why? Should we care?](https://www.deconstructconf.com/2017/brian-marick-patterns-failed-why-should-we-care) - Brian Marick
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
 * [Re-thinking IT](https://vimeo.com/19122939) - John Seddon
+* [Five Underplayed Premisese of Test-Driven Development](http://geepawhill.org/five-underplayed-premises-of-tdd-2/) - Mike Hill
+* [Coaching? Like People!](http://geepawhill.org/coaching-like-people/) - Mike Hill
 
 ## Podcasts
 <a name="podcasts"></a>
