@@ -43,6 +43,7 @@
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion) - Bob Martin
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
 * [Beware the Bloated Constructor](http://www.daedtech.com/beware-the-bloated-constructor/) - Erik Deitrich
+* [Screaming Architecture](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html) - Robert Martin
 
 
 ### Agile / eXtreme Programming / Team Organization
