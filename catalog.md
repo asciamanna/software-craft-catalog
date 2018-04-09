@@ -166,9 +166,22 @@
 
 ## Podcasts
 <a name="podcasts"></a>
-* [.NET Rocks - Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
-* [.NET Rocks - Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
-* [.NET Rocks - Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
+
+### Agile Uprising
+* [Manifesto Co-Author Interview: Jon Kern](http://agileuprising.libsyn.com/manifesto-co-author-interview-jon-kern)
+* [Manifesto Co-Author Interview: Alistair Cockburn](http://agileuprising.libsyn.com/manifesto-co-author-interview-alistair-cockburn)
+* [Manifesto Co-Author Interview: Bob Martin](http://agileuprising.libsyn.com/manifesto-co-author-interview-bob-martin)
+* [Manifesto Co-Author Interview: Arie Van Bennekum](http://agileuprising.libsyn.com/manifesto-co-author-interview-arie-van-bennekum)
+* [Manifesto Co-Author Interview: Mike Beedle](http://agileuprising.libsyn.com/manifesto-co-author-interview-mike-beedle)
+* [Manifesto Co-Author Interview: Andy Hunt](http://agileuprising.libsyn.com/manifesto-co-author-interview-andy-hunt)
+* [Joshua Kerievsky - Modern Agile](http://agileuprising.libsyn.com/joshua-kerievsky-modern-agile)
+* [James Grenning - TDD Guided By Zombies](http://agileuprising.libsyn.com/tdd-guided-by-zombies-with-james-grenning)
+
+### .NET Rocks
+
+* [Mature Test-Driven Development with Justin Searls](https://www.dotnetrocks.com/?show=1207)
+* [Technical Debt Isn't Technical with Einar H&oslash;st](https://www.dotnetrocks.com/?show=1235)
+* [Agile Change with Chris McDermott](https://www.dotnetrocks.com/?show=1260)
 
 ## Miscellaneous
 <a name="misc"></a>
