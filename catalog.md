@@ -15,6 +15,9 @@
   * How Google adopted a Unit Testing Culture
 * [Habits that Help Code Quality](http://www.daedtech.com/habits-that-help-code-quality/) - Erik Dietrich
 * [The Transformation Priority Premise](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) - Robert Martin
+* [Unit Tests Are FIRST](https://pragprog.com/magazines/2012-01/unit-tests-are-first) - Tim Ottinger & Jeff Langr
+* [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
+
 
 ### Refactoring / Technical Debt
 
@@ -45,6 +48,7 @@
 * [Continuous Design](http://www.martinfowler.com/ieeeSoftware/continuousDesign.pdf) - James Shore
 * [Beware the Bloated Constructor](http://www.daedtech.com/beware-the-bloated-constructor/) - Erik Deitrich
 * [Screaming Architecture](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html) - Robert Martin
+* [Optimizing a Program (And Programming)](http://geepawhill.org/optimizing-a-program-and-programming/) - Mike Hill
 
 
 ### Agile / eXtreme Programming / Team Organization
