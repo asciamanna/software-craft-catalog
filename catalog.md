@@ -171,6 +171,12 @@
 * [TDD & The Lump of Coding Fallancy](http://geepawhill.org/tdd-the-lump-of-coding-fallacy/) - Mike Hill
 * [Microtests: A GeePaw Hill Quickie](https://www.youtube.com/watch?v=H3LOyuqhaJA) - Mike Hill
 
+## Videos
+<a name="videos"></a>
+* [A Day of Mob Programming 2012](https://www.youtube.com/watch?v=p_pvslS4gEI) - Woody Zuill
+* [A Day of Mob Programming 2016](https://www.youtube.com/watch?v=dVqUcNKVbYg) - Woody Zuill
+* [Mob Programming - Getting the Best out of Your Team](https://imgur.com/gallery/fGlgTyg)
+
 ## Podcasts
 <a name="podcasts"></a>
 
