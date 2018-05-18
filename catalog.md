@@ -17,6 +17,7 @@
 * [The Transformation Priority Premise](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) - Robert Martin
 * [Unit Tests Are FIRST](https://pragprog.com/magazines/2012-01/unit-tests-are-first) - Tim Ottinger & Jeff Langr
 * [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
+* [Test-Driven Development: A Guide for Non-Programmers](https://pragprog.com/magazines/2011-11/testdriven-development) - Jeff Langr
 
 
 ### Refactoring / Technical Debt
