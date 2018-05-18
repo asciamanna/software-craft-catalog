@@ -117,6 +117,7 @@
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
 * [Code Kata](http://codekata.pragprog.com/) - Dave Thomas
+* [Coding Dojo](https://codingdojo.org/)
 
 ### Interaction Design 
 * [Pair Design](http://www.cooper.com/journal/2011/2/pairaphors) - Chris Noessel 
