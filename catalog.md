@@ -193,6 +193,7 @@
 * [Joshua Kerievsky - Modern Agile](http://agileuprising.libsyn.com/joshua-kerievsky-modern-agile)
 * [James Grenning - TDD Guided By Zombies](http://agileuprising.libsyn.com/tdd-guided-by-zombies-with-james-grenning)
 * [Dynamic Reteaming - The Art and Wisdom of Changing Teams with Heidi Helfand](http://agileuprising.libsyn.com/dynamic-reteaming-the-art-and-wisdom-of-changing-teams)
+* [Lean Software Development with Mary and Tom Poppendeick](http://agileuprising.libsyn.com/lean-software-development-with-mary-and-tom-poppendeick)
 
 ### .NET Rocks
 
