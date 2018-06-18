@@ -19,6 +19,11 @@
 * [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
 * [Test-Driven Development: A Guide for Non-Programmers](https://pragprog.com/magazines/2011-11/testdriven-development) - Jeff Langr
 
+### Pair Programming / Mob Programming
+
+* [Introducing Pair Programming](http://www.infoq.com/articles/introducing-pair-programming) - Melinda Stelzer Jacobson
+* [Pair Programming Benefits](https://pragprog.com/magazines/2011-07/pair-programming-benefits) - Jeff Langr & Tim Ottinger
+* [Mob Programming - A Whole Team Approach](https://www.agilealliance.org/resources/experience-reports/mob-programming-agile2014/) - Woody Zuill
 
 ### Refactoring / Technical Debt
 
@@ -67,7 +72,6 @@
 * [Symbiosis - A Provocation about Organizations - UPDATED](http://www.r7krecon.com/#!provocation/gfqa5) - Michael Feathers
 * [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
 * [How to Keep Your Best Developers](http://www.daedtech.com/how-to-keep-your-best-programmers) - Erik Dietrich
-* [Introducing Pair Programming](http://www.infoq.com/articles/introducing-pair-programming) - Melinda Stelzer Jacobson
 * [But Are They Working Hard?](http://www.estherderby.com/2012/02/but-are-they-working-hard.html) - Esther Derby
 * [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
 * [The Agile Blindside](http://www.estherderby.com/2011/05/the-agile-blindside.html) - Esther Derby
@@ -76,7 +80,6 @@
 * [We Tried Baseball and it Didn't Work](http://ronjeffries.com/xprog/articles/jatbaseball/) - Ron Jeffries
 * [Outcomes over Features](http://dannorth.net/2006/10/28/outcomes-over-features-the-fifth-agile-value/) - Dan North
 * [Don't Create a Sense of Urgency, Foster a sense of Purpose](https://medium.com/@kimber_lockhart/don-t-create-a-sense-of-urgency-foster-a-sense-of-purpose-724e309ecdb0#.sjfzc3ha0) - Kimber Lockhart
-* [Pair Programming Benefits](https://pragprog.com/magazines/2011-07/pair-programming-benefits) - Jeff Langr & Tim Ottinger
 * [Two Forgotten Agile Values: Discipline and Skill](http://www.exampler.com/discipline-and-skill.html) - Brian Marick
 * [Avoiding Iteration Zero](http://blog.gdinwiddie.com/2011/05/25/avoiding-iteration-zero/) - George Dinwiddie
 * [Some Thoughts on Collective Code Ownership and Knowledge](http://jeremydmiller.com/2014/07/13/some-thoughts-on-collective-ownership-and-knowledge/) - Jeremy D. Miller
