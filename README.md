@@ -1,6 +1,6 @@
 # Software Craft Catalog
 
-A single place to collect blog posts, talks, and other materials about code craft, Test-Driven Development (TDD), unit testing / microtesting, eXtreme Programming (XP), Lean Software Development, Modern Agile, etc.
+A single place to collect blog posts, talks, and other materials about Test-Driven Development (TDD), unit testing / microtesting, eXtreme Programming (XP), Lean Software Development, Modern Agile, etc.
 
 ## Purpose
 
