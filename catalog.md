@@ -120,6 +120,7 @@
 * [The Business Case for Modern Engineering Practices](https://blog.testdouble.com/posts/2017-08-22-the-business-case-for-modern-engineering-practices) - Daryl Kulak
 * [Size Teams for Few to No Handoffs](https://www.linkedin.com/pulse/size-teams-few-handoffs-joshua-kerievsky/) - Joshua Kerievsky
 * [How Scrum Disempowers Developers and Destroys Agile](https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile)
+* [Doers Decide](http://docondev.com/blog/2016/2/21/doers-decide) - Doc Norton
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
