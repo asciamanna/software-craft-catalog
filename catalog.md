@@ -125,6 +125,7 @@
 * [How Long is a Story Point?](https://threadreaderapp.com/thread/1015267580465041408.html) - Tim Ottinger
 * [The Scatter-Gather Method of Software Development](http://agileotter.blogspot.com/2018/07/the-scatter-gather-method-of-software.html) - Tim Ottinger 
 * [Eliminating the Product Owner Role](https://medium.com/@JoshuaKerievsky/eliminating-the-product-owner-role-be01cabc1f5b) - Joshua Kerievsky
+* [Ron's thread on NoEstimates](https://threadreaderapp.com/thread/1021818542893748228.html) - Ron Jeffries
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
