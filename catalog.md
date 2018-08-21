@@ -186,6 +186,7 @@
 * [TDD & The Lump of Coding Fallancy](http://geepawhill.org/tdd-the-lump-of-coding-fallacy/) - Mike Hill
 * [Microtests: A GeePaw Hill Quickie](https://www.youtube.com/watch?v=H3LOyuqhaJA) - Mike Hill
 * [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) - Adrian Cockcroft
+* [What is Leadership](https://www.davidmarquet.com/2015/01/30/what-is-leadership/) - David Marquet
 
 ## Videos
 <a name="videos"></a>
