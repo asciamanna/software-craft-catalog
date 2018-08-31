@@ -126,6 +126,8 @@
 * [The Scatter-Gather Method of Software Development](http://agileotter.blogspot.com/2018/07/the-scatter-gather-method-of-software.html) - Tim Ottinger 
 * [Eliminating the Product Owner Role](https://medium.com/@JoshuaKerievsky/eliminating-the-product-owner-role-be01cabc1f5b) - Joshua Kerievsky
 * [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
+* [That'll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity
+](https://medium.com/@johnpcutler/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13) - John Cutler
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
