@@ -18,6 +18,7 @@
 * [Unit Tests Are FIRST](https://pragprog.com/magazines/2012-01/unit-tests-are-first) - Tim Ottinger & Jeff Langr
 * [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
 * [Test-Driven Development: A Guide for Non-Programmers](https://pragprog.com/magazines/2011-11/testdriven-development) - Jeff Langr
+* [TDD Antipatterns](https://www.industriallogic.com/blog/skills-inventory/) - Tim Ottinger & Jeff Langr
 
 ### Pair Programming / Mob Programming
 
@@ -128,6 +129,7 @@
 * [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
 * [That'll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity
 ](https://medium.com/@johnpcutler/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13) - John Cutler
+* [Skills Inventory](https://www.industriallogic.com/blog/skills-inventory/) - Mike Rieser
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
