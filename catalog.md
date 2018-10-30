@@ -6,7 +6,7 @@
 * [The Three Rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) - Robert Martin
 * [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) - Robert Martin
 * [Thorns Around the Gold](http://blog.cleancoder.com/uncle-bob/2014/11/19/GoingForTheGold.html) - Robert Martin
-* [Resist Integration Tests](http://geepawhill.org/tdd-resist-integration-tests/) - Mike Hill
+* [TDD: Resist Integration Tests](http://geepawhill.org/tdd-resist-integration-tests/) - Mike Hill
 * [What TDD Is and Is Not](http://www.daedtech.com/what-tdd-is-and-is-not) - Erik Dietrich
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html) - Martin Fowler
 * [Tests Are an Implementation Detail](https://content.pivotal.io/blog/tests-are-an-implementation-detail) - Matthew Parker
