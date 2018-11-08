@@ -131,6 +131,7 @@
 * [That'll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity
 ](https://medium.com/@johnpcutler/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13) - John Cutler
 * [Skills Inventory](https://www.industriallogic.com/blog/skills-inventory/) - Mike Rieser
+* [Ask for the Moon](https://medium.com/@JoshuaKerievsky/ask-for-the-moon-680a319d4f9e) - Joshua Kerievsky
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
