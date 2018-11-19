@@ -193,6 +193,7 @@
 * [Microtests: A GeePaw Hill Quickie](https://www.youtube.com/watch?v=H3LOyuqhaJA) - Mike Hill
 * [The State of the Art in Microservices](https://www.youtube.com/watch?v=pwpxq9-uw_0) - Adrian Cockcroft
 * [What is Leadership?](https://www.davidmarquet.com/2015/01/30/what-is-leadership/) - David Marquet
+* [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) - Sandi Metz
 
 ## Videos
 <a name="videos"></a>
