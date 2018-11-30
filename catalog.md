@@ -133,6 +133,7 @@
 * [Skills Inventory](https://www.industriallogic.com/blog/skills-inventory/) - Mike Rieser
 * [Ask for the Moon](https://medium.com/@JoshuaKerievsky/ask-for-the-moon-680a319d4f9e) - Joshua Kerievsky
 * [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/) - Ron Jeffries
+* [Connections, 'Transformation', Agile Software Development](https://ronjeffries.com/articles/018-01ff/connections-transformation/) - Ron Jeffries
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
