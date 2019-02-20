@@ -18,7 +18,7 @@
 * [Unit Tests Are FIRST](https://pragprog.com/magazines/2012-01/unit-tests-are-first) - Tim Ottinger & Jeff Langr
 * [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
 * [Test-Driven Development: A Guide for Non-Programmers](https://pragprog.com/magazines/2011-11/testdriven-development) - Jeff Langr
-* [TDD Antipatterns](https://www.industriallogic.com/blog/skills-inventory/) - Tim Ottinger & Jeff Langr
+* [TDD Antipatterns](http://agileinaflash.blogspot.com/2009/06/tdd-antipatterns.html) - Tim Ottinger & Jeff Langr
 * [A Set of Unit Testing Rules](https://www.artima.com/weblogs/viewpost.jsp?thread=126923) - Michael Feathers
 * [Don't Measure Unit Test Coverage](https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html) - James Shore
 
