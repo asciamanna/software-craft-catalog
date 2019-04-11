@@ -125,6 +125,7 @@
 * [Size Teams for Few to No Handoffs](https://www.linkedin.com/pulse/size-teams-few-handoffs-joshua-kerievsky/) - Joshua Kerievsky
 * [How Scrum Disempowers Developers and Destroys Agile](https://www.lambdacambridge.com/blog/how-scrum-disempowers-developers-and-destroys-agile)
 * [Doers Decide](http://docondev.com/blog/2016/2/21/doers-decide) - Doc Norton
+* [Continuous Integration on a Dollar a Day](https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html) - James Shore
 * [Revenge of the PMO](https://svpg.com/revenge-of-the-pmo/) - Marty Cagan
 * [How Long is a Story Point?](https://threadreaderapp.com/thread/1015267580465041408.html) - Tim Ottinger
 * [The Scatter-Gather Method of Software Development](http://agileotter.blogspot.com/2018/07/the-scatter-gather-method-of-software.html) - Tim Ottinger 
