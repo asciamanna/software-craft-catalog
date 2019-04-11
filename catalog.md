@@ -2,6 +2,7 @@
 <a name="#blog-posts"></a>
 ### Test-Driven Development / Unit Testing / Microtesting
 
+* [TDD Guided By ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies) - James Grenning
 * [Test First](https://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html) - Robert Martin
 * [The Three Rules of TDD](http://butunclebob.com/ArticleS.UncleBob.TheThreeRulesOfTdd) - Robert Martin
 * [The Cycles of TDD](http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html) - Robert Martin
@@ -212,6 +213,8 @@
 <a name="podcasts"></a>
 
 ### Agile Uprising
+
+* [James Grenning - TDD Guided By Zombies](http://agileuprising.libsyn.com/tdd-guided-by-zombies-with-james-grenning)
 * [Manifesto Co-Author Interview: Jon Kern](http://agileuprising.libsyn.com/manifesto-co-author-interview-jon-kern)
 * [Manifesto Co-Author Interview: Alistair Cockburn](http://agileuprising.libsyn.com/manifesto-co-author-interview-alistair-cockburn)
 * [Manifesto Co-Author Interview: Bob Martin](http://agileuprising.libsyn.com/manifesto-co-author-interview-bob-martin)
@@ -219,7 +222,6 @@
 * [Manifesto Co-Author Interview: Mike Beedle](http://agileuprising.libsyn.com/manifesto-co-author-interview-mike-beedle)
 * [Manifesto Co-Author Interview: Andy Hunt](http://agileuprising.libsyn.com/manifesto-co-author-interview-andy-hunt)
 * [Joshua Kerievsky - Modern Agile](http://agileuprising.libsyn.com/joshua-kerievsky-modern-agile)
-* [James Grenning - TDD Guided By Zombies](http://agileuprising.libsyn.com/tdd-guided-by-zombies-with-james-grenning)
 * [Dynamic Reteaming - The Art and Wisdom of Changing Teams with Heidi Helfand](http://agileuprising.libsyn.com/dynamic-reteaming-the-art-and-wisdom-of-changing-teams)
 * [Lean Software Development with Mary and Tom Poppendeick](http://agileuprising.libsyn.com/lean-software-development-with-mary-and-tom-poppendeick)
 
