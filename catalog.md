@@ -139,6 +139,7 @@
 * [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/) - Ron Jeffries
 * [Connections, 'Transformation', Agile Software Development](https://ronjeffries.com/articles/018-01ff/connections-transformation/) - Ron Jeffries
 * [Three-C's Revisited](https://ronjeffries.com/articles/019-01ff/3cs-revisited/) - Ron Jeffries
+* [Metrics for Agile](https://www.estherderby.com/2011/10/metrics-for-agile.html) - Esther Derby
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
