@@ -16,6 +16,7 @@
   * How Google adopted a Unit Testing Culture
 * [Habits that Help Code Quality](http://www.daedtech.com/habits-that-help-code-quality/) - Erik Dietrich
 * [The Transformation Priority Premise](https://8thlight.com/blog/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html) - Robert Martin
+* [Are Unit Tests Worth It](https://daedtech.com/are-unit-tests-worth-it/) - Erik Dietrich
 * [Unit Tests Are FIRST](https://pragprog.com/magazines/2012-01/unit-tests-are-first) - Tim Ottinger & Jeff Langr
 * [The Technical Meaning of Microtest](http://geepawhill.org/the-technical-meaning-of-microtest/) - Mike Hill
 * [Test-Driven Development: A Guide for Non-Programmers](https://pragprog.com/magazines/2011-11/testdriven-development) - Jeff Langr
