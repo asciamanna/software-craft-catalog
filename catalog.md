@@ -173,7 +173,7 @@
 * [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
 * [Demanding Software Professionalism](https://vimeo.com/56708193) - Robert Martin
 * [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
-* [Find the Right Abstraction Level for your Tests](http://ustream.tv/recorded/46744750) - Gerard Meszaros
+* [Find the Right Abstraction Level for your Tests](https://www.infoq.com/presentations/tests-vocabulary/) - Gerard Meszaros
 * [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
 * [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
 * [Etsy (Optimize for Developer Happiness)](https://youtu.be/22EECFEk9Xs) - Chad Dickerson
