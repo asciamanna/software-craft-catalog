@@ -26,6 +26,7 @@
 * [A Set of Unit Testing Rules](https://www.artima.com/weblogs/viewpost.jsp?thread=126923) - Michael Feathers
 * [Don't Measure Unit Test Coverage](https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html) - James Shore
 * [Premature Passes: Why You Might Be Getting Green on Red](http://agileinaflash.blogspot.com/2012/07/premature-passes-why-you-might-be.html) - Tim Ottinger & Jeff Langr
+* [Test-Before Is Operationally Different](http://geepawhill.org/pro-tip-test-before-is-operational/) - Mike Hill
 
 ### Pair Programming / Mob Programming
 
