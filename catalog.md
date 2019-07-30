@@ -65,6 +65,7 @@
 * [Screaming Architecture](https://8thlight.com/blog/uncle-bob/2011/09/30/Screaming-Architecture.html) - Robert Martin
 * [Optimizing a Program (And Programming)](http://geepawhill.org/optimizing-a-program-and-programming/) - Mike Hill
 * [Evolutionary Design](https://www.industriallogic.com/blog/evolutionary-design/) - Joshua Kerievsky
+* [How Virtuous Is Your Code](https://pragprog.com/magazines/2011-08/how-virtuous-is-your-code) - Jeff Langr & Tim Ottinger
 
 
 ### Agile / eXtreme Programming / Team Organization
