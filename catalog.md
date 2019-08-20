@@ -83,7 +83,6 @@
 * [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
 * [How to Keep Your Best Developers](http://www.daedtech.com/how-to-keep-your-best-programmers) - Erik Dietrich
 * [But Are They Working Hard?](http://www.estherderby.com/2012/02/but-are-they-working-hard.html) - Esther Derby
-* [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
 * [The Agile Blindside](http://www.estherderby.com/2011/05/the-agile-blindside.html) - Esther Derby
 * [Killing the Crunch Mode Antipattern](http://chadfowler.com/2014/01/22/the-crunch-mode-antipattern.html) - Chad Fowler
 * [The Land That Scrum Forgot](https://www.scrumalliance.org/community/articles/2010/december/the-land-that-scrum-forgot) - Robert Martin
@@ -96,10 +95,8 @@
 * [No Time to Learn](http://blog.gdinwiddie.com/2015/03/05/no-time-to-learn/) - George Dinwiddie
 * [Adding a new Team Member](http://blog.gdinwiddie.com/2013/03/27/adding-a-new-team-member/) - George Dinwiddie
 * [Accelerating Upside Convexity in Software Development](https://www.facebook.com/notes/kent-beck/accelerating-upside-convexity-in-software-development/1134914156541447) - Kent Beck
-* [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries
-* [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman 
+* [Management In Agile](http://ronjeffries.com/articles/015-12/management/) - Ron Jeffries 
 * [Who is Playing Agile Schedule Games](http://www.jrothman.com/articles/2012/05/whos-playing-agile-schedule-games/) - Johanna Rothman
-* [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert  
 * [Three Reasons Why Organizations Adopting Agile Say No to XP](https://dzone.com/articles/three-reasons-why-organizations-adopting-agile-say) - Charlie Rudd 
 * [Do You Want Crappy Agile?](http://ronjeffries.com/articles/016-03/you-want/) - Ron Jeffries
 * [Activity Oriented](http://martinfowler.com/bliki/ActivityOriented.html) - Sriram Narayan
@@ -123,8 +120,6 @@
 * [Organizing Your Agile Teams, Think Autonomy, Mastery, Purpose](https://techbeacon.com/how-best-organize-agile-teams-build-around-autonomy-mastery-purpose) - Johanna Rothman
 * [What Story Estimates are Not](http://ronjeffries.com/articles/015-jul/what-estimates-are-not/) - Ron Jeffries
 * [Vertical Slices and Scale](http://agileforall.com/vertical-slices-and-scale/) - Richard Lawrence
-* [Why not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
-* [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
 * [What Agile is Not](https://pragprog.com/magazines/2010-10/what-agile-is-not) - Jeff Langr, Tim Ottinger
 * ["Business Agile": Built Upon Sand](http://ronjeffries.com/articles/017-08ff/sand/) - Ron Jeffries 
 * [The Business Case for Modern Engineering Practices](https://blog.testdouble.com/posts/2017-08-22-the-business-case-for-modern-engineering-practices) - Daryl Kulak
@@ -136,7 +131,6 @@
 * [How Long is a Story Point?](https://threadreaderapp.com/thread/1015267580465041408.html) - Tim Ottinger
 * [The Scatter-Gather Method of Software Development](http://agileotter.blogspot.com/2018/07/the-scatter-gather-method-of-software.html) - Tim Ottinger 
 * [Eliminating the Product Owner Role](https://medium.com/@JoshuaKerievsky/eliminating-the-product-owner-role-be01cabc1f5b) - Joshua Kerievsky
-* [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
 * [That'll Never Work Here: Heretics, Head Noddies, and the Drift Into Mediocrity
 ](https://medium.com/@johnpcutler/thatll-never-work-here-heretics-head-noddies-and-the-drift-into-mediocrity-4424a4b61e13) - John Cutler
 * [Skills Inventory](https://www.industriallogic.com/blog/skills-inventory/) - Mike Rieser
@@ -146,6 +140,15 @@
 * [Three-C's Revisited](https://ronjeffries.com/articles/019-01ff/3cs-revisited/) - Ron Jeffries
 * [Metrics for Agile](https://www.estherderby.com/2011/10/metrics-for-agile.html) - Esther Derby
 * [Anti-Management? No, Different Management](https://ronjeffries.com/articles/019-01ff/management/) - Ron Jeffries
+
+### Software Estimation / Velocity / Abuses
+* [Why Not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
+* [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
+* [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
+* [Some Thoughts On Estimation](https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html) - Ron Jeffries
+* [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
+* [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert 
+* [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
