@@ -140,6 +140,7 @@
 * [Three-C's Revisited](https://ronjeffries.com/articles/019-01ff/3cs-revisited/) - Ron Jeffries
 * [Metrics for Agile](https://www.estherderby.com/2011/10/metrics-for-agile.html) - Esther Derby
 * [Anti-Management? No, Different Management](https://ronjeffries.com/articles/019-01ff/management/) - Ron Jeffries
+* [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/) - Ron Jeffries
 
 ### Software Estimation / Velocity / Abuses
 * [Why Not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
