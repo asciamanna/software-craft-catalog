@@ -180,7 +180,7 @@
 * [Nothing is Something](https://www.youtube.com/watch?v=29MAL8pJImQ) - Sandi Metz
 * [Refactoring from Good to Great](https://www.youtube.com/watch?v=DC-pQPq0acs) - Ben Orenstein
 * [Demanding Software Professionalism](https://vimeo.com/56708193) - Robert Martin
-* [How to Stop Hating Your Test Suite](https://www.youtube.com/watch?v=VD51AkG8EZw) - Justin Searls
+* [How to Stop Hating Your Test Suite](https://vimeo.com/145917204) - Justin Searls
 * [Find the Right Abstraction Level for your Tests](https://www.infoq.com/presentations/tests-vocabulary/) - Gerard Meszaros
 * [What Discourse Learned from Using Ember.js](https://www.youtube.com/watch?v=2s9iOTNl2g0) - Robin Ward
 * [Tiny](http://www.infoq.com/presentations/small-iteration-method-team) - Chad Fowler
