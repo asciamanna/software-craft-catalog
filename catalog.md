@@ -214,6 +214,7 @@
 * [What is Leadership?](https://www.davidmarquet.com/2015/01/30/what-is-leadership/) - David Marquet
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) - Sandi Metz
 * [Effective React Testing](https://www.youtube.com/watch?v=Eakp29J38YA) - Jeremy Fairbank
+* [Integrated Tests are a Scam](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - J.B. Rainsberger
 
 ## Videos
 <a name="videos"></a>
