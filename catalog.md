@@ -79,7 +79,7 @@
 * [Project vs. Product](https://www.thoughtworks.com/insights/blog/project-vs-product) - Tabassum Farooque Memon
 * [No Projects - Beyond Projects](https://www.infoq.com/articles/kelly-beyond-projects) - Allan Kelly
 * [Symbiosis - A Provocation about Organizations](https://drive.google.com/file/d/0B8ZX1RoWHuiJRnppcERLNjdSV00/view) - Michael Feathers
-* [Symbiosis - A Provocation about Organizations - UPDATED](http://www.r7krecon.com/#!provocation/gfqa5) - Michael Feathers
+* [Symbiosis - A Provocation about Organizations - UPDATED](https://www.r7krecon.com/provocation) - Michael Feathers
 * [Symbiosis - Implications](http://www.r7krecon.com/#!implications/t2tbw) - Michael Feathers
 * [How to Keep Your Best Developers](http://www.daedtech.com/how-to-keep-your-best-programmers) - Erik Dietrich
 * [But Are They Working Hard?](http://www.estherderby.com/2012/02/but-are-they-working-hard.html) - Esther Derby
