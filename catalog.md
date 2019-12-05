@@ -3,6 +3,7 @@
 ### Test-Driven Development / Unit Testing / Microtesting
 
 * [TDD Guided By ZOMBIES](http://blog.wingman-sw.com/tdd-guided-by-zombies) - James Grenning
+* [TDD](https://ronjeffries.com/articles/019-01ff/tdd-one-word/) - Ron Jeffries
 * [Programmer Test Principles](https://medium.com/@kentbeck_7670/programmer-test-principles-d01c064d7934) - Kent Beck
 * [TDD, TCR, and Frequent Commits](https://xp123.com/articles/tdd-tcr-commits/) - Bill Wake
 * [Test First](https://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html) - Robert Martin
