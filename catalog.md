@@ -28,6 +28,7 @@
 * [Don't Measure Unit Test Coverage](https://www.jamesshore.com/Blog/Dont-Measure-Unit-Test-Code-Coverage.html) - James Shore
 * [Premature Passes: Why You Might Be Getting Green on Red](http://agileinaflash.blogspot.com/2012/07/premature-passes-why-you-might-be.html) - Tim Ottinger & Jeff Langr
 * [Test-Before Is Operationally Different](http://geepawhill.org/pro-tip-test-before-is-operational/) - Mike Hill
+* [When Wouldn't I Use TDD?](https://ronjeffries.com/articles/020-01ff/when-not-to-tdd/) - Ron Jeffries
 
 ### Pair Programming / Mob Programming
 
@@ -143,6 +144,7 @@
 * [Anti-Management? No, Different Management](https://ronjeffries.com/articles/019-01ff/management/) - Ron Jeffries
 * [Twelve](https://ronjeffries.com/articles/019-01ff/twelve/) - Ron Jeffries
 * [What Does it Mean to be a Self-Organized Empowered Team](https://medium.com/swlh/what-does-it-mean-to-be-a-self-organized-empowered-team-4b74e54e2c6d) - Sharlene McKinnon
+* [Issues with SAFe](https://ronjeffries.com/xprog/articles/issues-with-safe/) - Ron Jeffries
 
 ### Software Estimation / Velocity / Abuses
 * [Why Not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
