@@ -219,6 +219,7 @@
 * [SOLID Object-Oriented Design](https://www.youtube.com/watch?v=v-2yFMzxqwU) - Sandi Metz
 * [Effective React Testing](https://www.youtube.com/watch?v=Eakp29J38YA) - Jeremy Fairbank
 * [Integrated Tests are a Scam](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - J.B. Rainsberger
+* [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
 
 ## Videos
 <a name="videos"></a>
