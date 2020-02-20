@@ -251,6 +251,7 @@
 ## Miscellaneous
 <a name="misc"></a>
 * [Catalog of Refactorings](http://refactoring.com/catalog/) - Martin Fowler
+* [Refactorings](https://sourcemaking.com/refactoring)
 * [Thoughtbot Playbook](http://playbook.thoughtbot.com/) 
 * [Design Patterns](https://sourcemaking.com/design_patterns) 
 * [Leading Retrospectives](https://media.pragprog.com/titles/dlret/Leading.pdf) - Online excerpt from Agile Retrospectives
