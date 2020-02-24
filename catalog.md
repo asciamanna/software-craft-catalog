@@ -154,6 +154,7 @@
 * [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
 * [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert 
 * [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman
+* [Estimates vs Actuals](https://www.industriallogic.com/blog/estimates-vs-actuals/) - Tim Ottinger
 
 ### Code Katas / Études
 * [Études for Excellence](http://www.jamesshore.com/Blog/Etudes-for-Excellence.html) - James Shore
