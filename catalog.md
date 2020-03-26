@@ -148,7 +148,7 @@
 * [Issues with SAFe](https://ronjeffries.com/xprog/articles/issues-with-safe/) - Ron Jeffries
 
 ### Software Estimation / Velocity / Abuses
-* [Why Not velocity as an agile metric?](http://www.estherderby.com/2011/10/why-not-velocity-as-an-agile-metric.html) - Esther Derby
+* [Why Not velocity as an agile metric?](https://www.estherderby.com/why-not-velocity-as-an-agile-metric/) - Esther Derby
 * [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
 * [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
 * [Some Thoughts On Estimation](https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html) - Ron Jeffries
