@@ -152,7 +152,7 @@
 * [Stop Using Story Points](https://www.industriallogic.com/blog/stop-using-story-points/) - Joshua Kerievsky
 * [No Estimates Isn't Crazy](https://ronjeffries.com/articles/018-01ff/no-estimates-logic/) - Ron Jeffries
 * [Some Thoughts On Estimation](https://ronjeffries.com/articles/019-01ff/estimation-again/Index.html) - Ron Jeffries
-* [Estimating is Often Helpful, Estimates are Often Not](http://www.estherderby.com/2012/03/estimating-is-often-helpful-estimates-are-often-not.html) - Esther Derby
+* [Estimating is Often Helpful, Estimates are Often Not](https://www.estherderby.com/estimating-is-often-helpful-estimates-are-often-not/) - Esther Derby
 * [Using Points vs. Hours for Estimates](https://dzone.com/articles/using-points-vs-hours-for-estimates) - Chase Seibert 
 * [Velocity is not Acceleration](http://www.jrothman.com/mpd/project-management/2016/05/velocity-is-not-acceleration/) - Johanna Rothman
 * [Estimates vs Actuals](https://www.industriallogic.com/blog/estimates-vs-actuals/) - Tim Ottinger
