@@ -178,6 +178,49 @@
 
 * [Performance Without Appraisal: Addressing the Most Common Concerns](http://www.estherderby.com/2010/07/performance-without-appraisal-addressing-the-most-common-concerns.html) - Esther Derby
 
+## Blogs to Follow
+<a name="blogs-to-follow"></a>
+* [Kent Beck](https://medium.com/@kentbeck_7670)
+* [Ron Jeffries](https://ronjeffries.com/)
+* [James Shore](https://www.jamesshore.com/)
+* [Martin Fowler](https://martinfowler.com/)
+* [Mike Hill](https://www.geepawhill.org/)
+* [Joshua Kerievsky](https://medium.com/@JoshuaKerievsky)
+* [Michael Feathers](https://www.r7krecon.com/articles)
+* [Robert Martin](http://cleancoder.com/)
+* [Esther Derby](https://www.estherderby.com/blog/)
+* [Industrial Logic](https://www.industriallogic.com/blog/)
+* [Tim Ottinger](http://agileotter.blogspot.com/)
+* [David Bernstein - to be agile](https://tobeagile.com/blog/)
+* [Anthony Sciamanna](https://anthonysciamanna.com/blog/)
+* [Bill Wake](https://xp123.com/articles/)
+* [Jeff Langr](https://langrsoft.com/jeffs-blog/)
+* [Agile Fluency Blog](https://www.agilefluency.org/blog)
+* [Mary Poppendieck](http://www.leanessays.com/)
+* [Agile Alliance Blog](https://www.agilealliance.org/community/blog/)
+* [Mike Cohn - Mountain Goat Software](https://www.mountaingoatsoftware.com/blog)
+* [Troy Magennis - Focused Objective](https://www.focusedobjective.com/w/support)
+* [Jeff Patton](https://www.jpattonassociates.com/blog2/)
+* [Dominica DeGrandis](https://ddegrandis.com/)
+* [Steve Ropa - Peak Codecraft](https://www.peakcodecraft.net/blog)
+* [Gojko Adzic](https://gojko.net/posts.html)
+* [Mark Seemann](https://blog.ploeh.dk/)
+* [Allison Pollard](http://www.allisonpollard.com/)
+* [David Anderson - Kanban University](https://resources.kanban.university/blog/)
+* [Vasco Duarte](http://softwaredevelopmenttoday.com/)
+* [Jeff Gothelf](https://jeffgothelf.com/blog/)
+* [Modern Agile](http://modernagile.org/)
+* [James Grenning](https://blog.wingman-sw.com/)
+* [Jason Little - Lean Change Management](https://leanchange.org/blog/)
+* [Rob Myers - Agile For All](https://agileforall.com/author/rmyers/)
+* [Johana Rothtman](https://www.jrothman.com/blogs/)
+* [Elisabeth Hendrickson - Test Obsessed](http://testobsessed.com/)
+* [George Dinwiddie](http://blog.gdinwiddie.com/)
+* [Erik Dietrich](https://daedtech.com/)
+* [Jez Humble - Continuous Delivery](https://continuousdelivery.com/blog/)
+* [Dan North](https://dannorth.net/blog/)
+* [Jurgen Appelo](https://jurgenappelo.com/articles/)
+
 ## Talks
 <a name="talks"></a>
 * [Workflows of Refactoring](https://youtu.be/vqEg37e4Mkw) - Martin Fowler
