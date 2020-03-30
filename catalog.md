@@ -204,6 +204,7 @@
 * [Dominica DeGrandis](https://ddegrandis.com/)
 * [Steve Ropa - Peak Codecraft](https://www.peakcodecraft.net/blog)
 * [Gojko Adzic](https://gojko.net/posts.html)
+* [Marty Cagan - SVPG](https://svpg.com/articles/)
 * [Mark Seemann](https://blog.ploeh.dk/)
 * [Allison Pollard](http://www.allisonpollard.com/)
 * [David Anderson - Kanban University](https://resources.kanban.university/blog/)
