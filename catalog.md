@@ -243,7 +243,7 @@
 * [Therapeutic Refactoring](https://youtu.be/KA9i5IGS-oU) - Katrina Owen
 * [Scaling Engineering Culture at Twitter](http://www.infoq.com/presentations/twitter-scalability-culture) - Raffi Krikorian 
 * [Agile Essence and Fluency](https://www.youtube.com/watch?v=URlnxbaHhTs&feature=youtu.be) - Martin Fowler
-* [The Nature of Software Development](https://vimeo.com/128295653) - Ron Jeffries & Chet Hendrickson
+* [The Nature of Software Development](https://www.youtube.com/watch?v=evheB0C-J2Y) - Ron Jeffries & Chet Hendrickson
 * [Why Scaling Agile Doesn't Work](https://youtu.be/2zYxWEZ0gYg) - Jez Humble
 * [All the Little Things](https://www.youtube.com/watch?v=8bZh5LMaSmE) - Sandi Metz
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) - Sandi Metz
@@ -266,7 +266,7 @@
 * [Effective React Testing](https://www.youtube.com/watch?v=Eakp29J38YA) - Jeremy Fairbank
 * [Integrated Tests are a Scam](https://blog.thecodewhisperer.com/permalink/integrated-tests-are-a-scam) - J.B. Rainsberger
 * [The Land that Scrum Forgot](https://www.youtube.com/watch?v=hG4LH6P8Syk) - Robert Martin
-* [The Technical Debt Trap](https://www.youtube.com/watch?v=Env47tQewIA) - Doc Norton
+* [The Technical Debt Trap](https://www.youtube.com/watch?v=SfWCRl75Kas) - Doc Norton
 * [Agile Without Dedicated QA](https://www.youtube.com/watch?v=_Dv4M39Arec&feature=youtu.be) - James Shore
 
 ## Videos
